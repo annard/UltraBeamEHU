@@ -1,0 +1,12 @@
+http://docs.makeblock.com/diy-platform/en/electronic-modules/motor-drivers/2h-microstep-driver.html
+
+https://microcontrollerslab.com/ac-current-measurement-acs712-arduino/
+
+The idea is to measure the current to the engine when running back and forth. We hope to detect that
+ the engine is in a specific state depending on the position of the antenna (fully out or in).
+
+https://docs.arduino.cc/built-in-examples/basics/ReadAnalogVoltage
+
+better measurements: https://www.adafruit.com/product/904
+
+stepper video: https://www.youtube.com/watch?v=hYk9Um9bdCY
